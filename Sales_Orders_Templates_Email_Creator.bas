@@ -1,6 +1,7 @@
 Attribute VB_Name = "Email_Creator"
 Sub Email_creator()
-
+    
+    ' Created by Renato Santos
     ' Macro to send each Sales Order template in worksheets to countries in scope
 
     With Application
